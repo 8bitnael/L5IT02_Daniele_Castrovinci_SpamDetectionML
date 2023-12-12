@@ -16,6 +16,4 @@ that distinguish between 'spam' and 'ham' messages.
 
 
 POST SCRIPTUM:
-While this code utilizes machine learning to classify messages as 'spam' or 'ham', it's not considered a part of the most advanced forms of artificial intelligence, 
-like deep learning or neural networks. 
-It falls under the broader umbrella of artificial intelligence by virtue of employing algorithms that enable a system to learn patterns from data and make decisions or predictions based on that learning, albeit in a more traditional and simpler form compared to some other AI techniques.
+This code uses machine learning to determine if a message is spam or not. While it is not as advanced as deep learning or neural networks, it still falls under the umbrella of artificial intelligence because it uses algorithms to learn from data and make decisions based on that learning, although in a more traditional and simpler way compared to other AI techniques.
