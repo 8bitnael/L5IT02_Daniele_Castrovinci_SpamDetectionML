@@ -1,5 +1,5 @@
 # Assignment: L05IT02 
-# TASK SPAM DETECTION using TENSORFLOW and Artificial Intelligence -Machine Learning
+# TASK SPAM DETECTION using TENSORFLOW and AI (Machine Learning)
 # Learner: DANIELE CASTROVINCI
 
  
