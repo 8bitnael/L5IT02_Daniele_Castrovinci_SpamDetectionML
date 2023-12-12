@@ -3,7 +3,7 @@
 # Learner: DANIELE CASTROVINCI
 
  
-The provided code involves  a classic machine learning algorithm known as Naive Bayes, to perform a task—spam detection.
+The provided code involves  a classic machine learning algorithm known as Naive Bayes, to perform a spam detection.
 Machine learning is a subset of artificial intelligence and it involves creating algorithms and models that enable computers
 to learn and make predictions  based on data without explicit programming. 
 This code contains:
